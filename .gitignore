@@ -1,0 +1,15 @@
+# Internal files — not for public repo
+CLAUDE.md
+CONTEXT.md
+_config/
+01_setup/
+02_portfolio/
+tools/generate-*.py
+*.pdf
+*.docx
+
+# Build artifacts
+.DS_Store
+__pycache__/
+*.pyc
+.env
