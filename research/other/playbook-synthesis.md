@@ -189,7 +189,7 @@ What's missing:
 This section seeds Step 3. Each line is directly supported by the synthesis above.
 
 1. **One topic, 12+ months**: "ATS and hiring operations for founders and HR leads at 10–100 person companies." Specific enough to matter, broad enough to sustain content. (Welsh, Acosta, Moroney, Reed)
-2. **Alex as founder-led voice, Growth hire as distribution engine**: hybrid model. (Robinson, Welsh)
+2. **Founder-led voice + supporting Growth function**: hybrid model — Alex writes, the Growth function builds the distribution engine, editorial calendar, and measurement stack around him. (Robinson, Welsh)
 3. **3 posts/week, 80% tactical, lead with carousels**: cadence and format arbitrage. (Acosta, Van der Blom)
 4. **Audience research first**: 5-minute method on 20 ICP profiles before the first content calendar. (Natividad)
 5. **Distribution-first of existing assets**: blog, reviews, comparison pages × 30 formats. Reddit + YouTube included. (Simmonds)
