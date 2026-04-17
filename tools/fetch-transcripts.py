@@ -86,7 +86,7 @@ def fetch_transcript(video_id: str) -> str | None:
         transcript = YouTubeTranscriptApi().fetch(video_id)
         lines = []
         for snippet in transcript:
-            text = snippet.get("text", "").strip()
+            text = (getattr(snippet, "text", "") or "").strip()
             if text:
                 lines.append(text)
         return " ".join(lines)
@@ -154,7 +154,7 @@ def main():
                 fetched += 1
             else:
                 failed += 1
-            time.sleep(3)  # avoid YouTube IP rate limiting
+            time.sleep(10)  # avoid YouTube IP rate limiting
 
     print(f"\nDone. {fetched}/{total} transcripts saved, {failed} failed.")
     if failed:
