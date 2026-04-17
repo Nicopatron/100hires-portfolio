@@ -2,7 +2,7 @@
 
 - **Expert**: Lara Acosta
 - **Channel**: Lara Acosta
-- **Date**: 2024-01-01
+- **Date**: 2024-07-28
 - **Duration**: 18:00
 - **URL**: https://www.youtube.com/watch?v=ZK-CBIFDR9w
 - **Collection method**: youtube-transcript-api (auto-generated captions)

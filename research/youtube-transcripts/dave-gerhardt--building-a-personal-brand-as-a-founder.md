@@ -2,7 +2,7 @@
 
 - **Expert**: Dave Gerhardt
 - **Channel**: Finn Thormeier
-- **Date**: 2024-01-01
+- **Date**: 2025-03-06
 - **Duration**: 53:00
 - **URL**: https://www.youtube.com/watch?v=bGbPr6Z473o
 - **Collection method**: youtube-transcript-api (auto-generated captions)

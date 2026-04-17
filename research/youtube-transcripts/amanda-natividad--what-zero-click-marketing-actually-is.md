@@ -2,7 +2,7 @@
 
 - **Expert**: Amanda Natividad
 - **Channel**: Amanda Natividad
-- **Date**: 2025-01-01
+- **Date**: 2026-03-10
 - **Duration**: 14:00
 - **URL**: https://www.youtube.com/watch?v=J98cUdZl-JQ
 - **Collection method**: youtube-transcript-api (auto-generated captions)

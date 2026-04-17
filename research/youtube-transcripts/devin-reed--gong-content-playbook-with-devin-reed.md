@@ -2,7 +2,7 @@
 
 - **Expert**: Devin Reed
 - **Channel**: Podcast Interview
-- **Date**: 2024-01-01
+- **Date**: 2024-06-13
 - **Duration**: 37:00
 - **URL**: https://www.youtube.com/watch?v=Hgl37lTOCs8
 - **Collection method**: youtube-transcript-api (auto-generated captions)

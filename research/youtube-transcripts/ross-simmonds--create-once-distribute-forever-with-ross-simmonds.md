@@ -2,7 +2,7 @@
 
 - **Expert**: Ross Simmonds
 - **Channel**: The Content Studio
-- **Date**: 2024-02-01
+- **Date**: 2024-02-23
 - **Duration**: 65:00
 - **URL**: https://www.youtube.com/watch?v=GLXu57IrRQ8
 - **Collection method**: youtube-transcript-api (auto-generated captions)

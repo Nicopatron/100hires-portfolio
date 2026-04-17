@@ -2,7 +2,7 @@
 
 - **Expert**: Justin Welsh
 - **Channel**: ActiveCampaign
-- **Date**: 2025-01-01
+- **Date**: 2025-12-02
 - **Duration**: 67:00
 - **URL**: https://www.youtube.com/watch?v=Mp8m-ysmfq4
 - **Collection method**: youtube-transcript-api (auto-generated captions)

@@ -2,7 +2,7 @@
 
 - **Expert**: Adam Robinson
 - **Channel**: Nathan Latka
-- **Date**: 2024-01-01
+- **Date**: 2024-10-17
 - **Duration**: 19:00
 - **URL**: https://www.youtube.com/watch?v=Xihp-uWZFaQ
 - **Collection method**: youtube-transcript-api (auto-generated captions)

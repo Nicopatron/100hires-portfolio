@@ -2,7 +2,7 @@
 
 - **Expert**: Steffen Hedebrandt
 - **Channel**: FINITE B2B Marketing
-- **Date**: 2024-01-01
+- **Date**: 2025-10-27
 - **Duration**: 30:00
 - **URL**: https://www.youtube.com/watch?v=H0200CMTxg4
 - **Collection method**: youtube-transcript-api (auto-generated captions)

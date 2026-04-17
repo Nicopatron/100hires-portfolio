@@ -2,7 +2,7 @@
 
 - **Expert**: Adam Robinson
 - **Channel**: Product Growth
-- **Date**: 2025-01-01
+- **Date**: 2025-01-24
 - **Duration**: 146:00
 - **URL**: https://www.youtube.com/watch?v=U7JNHexncUw
 - **Collection method**: youtube-transcript-api (auto-generated captions)

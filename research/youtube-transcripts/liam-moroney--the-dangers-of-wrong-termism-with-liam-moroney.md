@@ -2,7 +2,7 @@
 
 - **Expert**: Liam Moroney
 - **Channel**: Marketing Architects
-- **Date**: 2024-01-01
+- **Date**: 2025-07-22
 - **Duration**: 42:00
 - **URL**: https://www.youtube.com/watch?v=LuXuVv-ScCY
 - **Collection method**: youtube-transcript-api (auto-generated captions)

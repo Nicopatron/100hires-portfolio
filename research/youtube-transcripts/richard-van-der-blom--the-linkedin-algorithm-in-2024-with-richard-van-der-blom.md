@@ -2,7 +2,7 @@
 
 - **Expert**: Richard Van Der Blom
 - **Channel**: Dreamdata
-- **Date**: 2024-01-01
+- **Date**: 2024-02-28
 - **Duration**: 55:00
 - **URL**: https://www.youtube.com/watch?v=2BWpIPHpQG4
 - **Collection method**: youtube-transcript-api (auto-generated captions)

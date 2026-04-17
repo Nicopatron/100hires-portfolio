@@ -2,7 +2,7 @@
 
 - **Expert**: Steffen Hedebrandt
 - **Channel**: SaaS Marketing Superstars
-- **Date**: 2024-01-01
+- **Date**: 2023-02-27
 - **Duration**: 36:00
 - **URL**: https://www.youtube.com/watch?v=GTVYm4voyNw
 - **Collection method**: youtube-transcript-api (auto-generated captions)

@@ -2,7 +2,7 @@
 
 - **Expert**: Richard Van Der Blom
 - **Channel**: Mark Whitby
-- **Date**: 2025-01-01
+- **Date**: 2025-06-27
 - **Duration**: 38:00
 - **URL**: https://www.youtube.com/watch?v=nmPGcQvDnEg
 - **Collection method**: youtube-transcript-api (auto-generated captions)

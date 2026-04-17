@@ -2,7 +2,7 @@
 
 - **Expert**: Dave Gerhardt
 - **Channel**: AirOps
-- **Date**: 2024-01-01
+- **Date**: 2026-02-12
 - **Duration**: 55:00
 - **URL**: https://www.youtube.com/watch?v=1hJBQpFGlrg
 - **Collection method**: youtube-transcript-api (auto-generated captions)
