@@ -40,7 +40,7 @@ Researched, structured, written, and edited in one session using Claude Code. It
 
 **Topic**: LinkedIn Organic Content Strategy for B2B SaaS
 
-LinkedIn organic is the highest-leverage acquisition channel for a bootstrapped B2B SaaS with a small team. No ad spend, no months-long SEO ramp — just consistency, strategy, and compounding returns. I chose this topic because 100Hires could execute a playbook built from this research.
+LinkedIn organic is the highest-leverage acquisition channel for a bootstrapped B2B SaaS with a small team. No ad spend, no months-long SEO ramp — just consistency, strategy, and compounding returns. I chose this topic because 100Hires has 256 LinkedIn followers against a product worth talking about — this is where a new Growth hire would compound fastest, and a playbook built from this research is directly executable.
 
 ### Experts and Playbook Coverage
 
