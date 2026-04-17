@@ -66,7 +66,7 @@ Full expert profiles with credentials, annotations, and links: [`research/source
 | Source | Method | Volume |
 |--------|--------|--------|
 | LinkedIn posts | Manual curation + [formatting script](tools/format-linkedin-posts.py) | 6–8 posts per expert, filtered by playbook relevance |
-| YouTube transcripts | [`youtube-transcript-api`](tools/fetch-transcripts.py) | 2 videos per expert (20 total) — in progress |
+| YouTube transcripts | [`youtube-transcript-api`](tools/fetch-transcripts.py) | 2 videos per expert, 20 total |
 | Supplementary materials | Manual synthesis | Algorithm report key findings |
 
 ### Directory Structure
@@ -75,7 +75,7 @@ Full expert profiles with credentials, annotations, and links: [`research/source
 research/
   sources.md                        # 10 experts: credentials, playbook dimension, links
   linkedin-posts/                   # 10 files, one per expert
-  youtube-transcripts/              # ~20 transcripts (pending collection)
+  youtube-transcripts/              # 20 transcripts, 2 per expert
   other/                            # Algorithm report synthesis, frameworks
 tools/
   fetch-transcripts.py              # YouTube transcript fetcher (youtube-transcript-api)
