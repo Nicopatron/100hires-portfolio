@@ -14,6 +14,7 @@ Requires: pip install youtube-transcript-api
 import os
 import re
 import sys
+import time
 from datetime import datetime
 
 try:
@@ -26,11 +27,46 @@ except ImportError:
 # Videos to fetch — organized by expert
 # Format: "expert-slug": [("video-id", "title", "channel", "date", "duration")]
 VIDEOS: dict[str, list[tuple[str, str, str, str, str]]] = {
-    # Populate with actual video IDs after research
-    # Example:
-    # "justin-welsh": [
-    #     ("dQw4w9WgXcQ", "How I Built a $10M LinkedIn Business", "My First Million", "2024-06-15", "45:22"),
-    # ],
+    "justin-welsh": [
+        ("ZkwYxYfkfYU", "How I Built an $8M Business with 0 Employees", "Behind the Craft (Peter Yang)", "2024-09-15", "43:00"),
+        ("Mp8m-ysmfq4", "Why I Built a Non-Scalable 7-Figure Business", "ActiveCampaign", "2025-01-01", "67:00"),
+    ],
+    "adam-robinson": [
+        ("Xihp-uWZFaQ", "Adam Robinson Shares P&L, $22M Revenue, Strategy Behind LinkedIn", "Nathan Latka", "2024-01-01", "19:00"),
+        ("U7JNHexncUw", "From Credit Trader to $25M ARR and RB2B Growth", "Product Growth", "2025-01-01", "146:00"),
+    ],
+    "lara-acosta": [
+        ("ZK-CBIFDR9w", "I Blew Up My LinkedIn Following As Fast As I Could", "Lara Acosta", "2024-01-01", "18:00"),
+        ("JmZYLO5yGiQ", "Watch Me Use AI to Create 30 Days of Viral LinkedIn Posts", "Lara Acosta", "2024-01-01", "10:00"),
+    ],
+    "richard-van-der-blom": [
+        ("2BWpIPHpQG4", "The LinkedIn Algorithm in 2024 with Richard van der Blom", "Dreamdata", "2024-01-01", "55:00"),
+        ("nmPGcQvDnEg", "How to Use LinkedIn 2025 Algorithm to Attract Clients", "Mark Whitby", "2025-01-01", "38:00"),
+    ],
+    "steffen-hedebrandt": [
+        ("GTVYm4voyNw", "How to Attribute B2B Marketing Activities to Revenue", "SaaS Marketing Superstars", "2024-01-01", "36:00"),
+        ("H0200CMTxg4", "Contrarian Growth Playbook and B2B Revenue Attribution", "FINITE B2B Marketing", "2024-01-01", "30:00"),
+    ],
+    "liam-moroney": [
+        ("LuXuVv-ScCY", "The Dangers of Wrong-Termism with Liam Moroney", "Marketing Architects", "2024-01-01", "42:00"),
+        ("2fQW3baHeVQ", "Developing An Allbound Marketing Ethos", "Wix Studio", "2025-01-01", "50:00"),
+    ],
+    "dave-gerhardt": [
+        ("bGbPr6Z473o", "Building a Personal Brand as a Founder", "Finn Thormeier", "2024-01-01", "53:00"),
+        ("1hJBQpFGlrg", "The Brand Flywheel: Authentic Content, Audience and Momentum", "AirOps", "2024-01-01", "55:00"),
+    ],
+    "amanda-natividad": [
+        ("jW8oVoeHKqw", "Your Audience Your Edge: Unpacking Zero-Click Marketing", "Advanced Web Ranking", "2025-04-22", "48:00"),
+        ("J98cUdZl-JQ", "What Zero Click Marketing Actually Is", "Amanda Natividad", "2025-01-01", "14:00"),
+    ],
+    "devin-reed": [
+        ("FCcXQD9Rj_c", "Enterprise Content Strategy at Scale", "Podcast Interview", "2024-01-01", "27:00"),
+        ("Hgl37lTOCs8", "Gong Content Playbook with Devin Reed", "Podcast Interview", "2024-01-01", "37:00"),
+    ],
+    "ross-simmonds": [
+        ("GLXu57IrRQ8", "Create Once Distribute Forever with Ross Simmonds", "The Content Studio", "2024-02-01", "65:00"),
+        ("lCypg4hUPBc", "B2B Content Distribution Masterclass", "EventShark TV", "2024-01-01", "52:00"),
+    ],
 }
 
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "..", "research", "youtube-transcripts")
@@ -118,6 +154,7 @@ def main():
                 fetched += 1
             else:
                 failed += 1
+            time.sleep(3)  # avoid YouTube IP rate limiting
 
     print(f"\nDone. {fetched}/{total} transcripts saved, {failed} failed.")
     if failed:
