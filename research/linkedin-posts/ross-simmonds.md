@@ -3,7 +3,7 @@
 - **Profile**: https://www.linkedin.com/in/rosssimmonds/
 - **Posts collected**: 6
 - **Date range**: 2026-04
-- **Collection method**: Manual (profile review + copy)
+- **Collection method**: Apify (harvestapi/linkedin-profile-posts) where available; Claude Chrome extension (claude.ai/web) for profiles beyond Apify quota
 - **Selection criteria**: Content distribution strategy, repurposing frameworks, multi-channel distribution (Reddit, YouTube, AI/LLM visibility), "Create Once Distribute Forever" philosophy. Excluded: Foundation Marketing reposts, HubSpot ad, AI search posts without distribution angle, speaker playbook, leadership posts.
 
 ---

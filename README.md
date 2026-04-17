@@ -65,7 +65,7 @@ Full expert profiles with credentials, annotations, and links: [`research/source
 
 | Source | Method | Volume |
 |--------|--------|--------|
-| LinkedIn posts | Manual curation + [formatting script](tools/format-linkedin-posts.py) | 6–8 posts per expert, filtered by playbook relevance |
+| LinkedIn posts | Apify actor + Claude Chrome extension fallback · [formatting script](tools/format-linkedin-posts.py) | 6–8 posts per expert, filtered by playbook relevance |
 | YouTube transcripts | [`youtube-transcript-api`](tools/fetch-transcripts.py) | 2 videos per expert, 20 total |
 | Supplementary materials | Manual synthesis | Algorithm report key findings |
 

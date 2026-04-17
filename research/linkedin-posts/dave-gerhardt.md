@@ -3,7 +3,7 @@
 - **Profile**: https://www.linkedin.com/in/davegerhardt/
 - **Posts collected**: 7
 - **Date range**: 2026-03 to 2026-04
-- **Collection method**: Manual (profile review + copy)
+- **Collection method**: Apify (harvestapi/linkedin-profile-posts) where available; Claude Chrome extension (claude.ai/web) for profiles beyond Apify quota
 - **Selection criteria**: B2B brand building, community-led growth, marketing leadership, Exit Five as case study. Excluded: personal/humor posts (Little League, April Fools, Anthropic joke), reposts, Call for Speakers promos.
 
 ---

@@ -3,7 +3,7 @@
 - **Profile**: https://www.linkedin.com/in/retentionadam/
 - **Posts collected**: 7
 - **Date range**: 2026-02 to 2026-04
-- **Collection method**: Manual (profile review + copy)
+- **Collection method**: Apify (harvestapi/linkedin-profile-posts) where available; Claude Chrome extension (claude.ai/web) for profiles beyond Apify quota
 - **Selection criteria**: LinkedIn as exclusive TOFU channel for RB2B, growth metrics attributed to LinkedIn posting, GTM strategy for bootstrapped B2B, practical LinkedIn playbook for founders. Excluded: generic AI/SaaS commentary, lifestyle posts, cold email tactics, employee retention topics.
 
 ---

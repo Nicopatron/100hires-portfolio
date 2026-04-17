@@ -40,7 +40,7 @@ Each expert was chosen to cover a distinct dimension of the LinkedIn organic pla
 - **LinkedIn**: https://www.linkedin.com/in/justinwelsh/
 - **YouTube**: Guest appearances — featured on My First Million, The Nathan Barry Show, Creator Science, Noah Kagan, Build In Public Podcast, and 20+ other shows. No personal channel with uploads.
 - **Content date range**: 2024–2026
-- **Collection method**: LinkedIn posts via manual collection; YouTube transcripts via youtube-transcript-api from guest interview appearances
+- **Collection method**: LinkedIn posts via Apify (harvestapi/linkedin-profile-posts) + Claude Chrome extension fallback; YouTube transcripts via youtube-transcript-api from guest interview appearances
 - **Annotation**: The most referenced voice in LinkedIn organic strategy. His content system (2 posts/day, newsletter funnel, digital products) is the blueprint most B2B founders try to replicate. Unique contribution: proves the model works at scale as a one-person operation.
 
 ### 2. Adam Robinson
@@ -50,7 +50,7 @@ Each expert was chosen to cover a distinct dimension of the LinkedIn organic pla
 - **LinkedIn**: https://www.linkedin.com/in/retentionadam/
 - **YouTube**: Guest appearances on GTM Strategist, SaaS Club, Founderpath, and others. Also hosts "UnF*ck My Startup" podcast.
 - **Content date range**: 2024–2026
-- **Collection method**: LinkedIn posts via manual collection; YouTube transcripts via youtube-transcript-api from podcast/interview appearances
+- **Collection method**: LinkedIn posts via Apify (harvestapi/linkedin-profile-posts) + Claude Chrome extension fallback; YouTube transcripts via youtube-transcript-api from podcast/interview appearances
 - **Annotation**: The most documented case of LinkedIn-driven B2B SaaS growth in recent years. His "build in public" approach generated millions in pipeline with zero paid spend. Unique contribution: real revenue data tied directly to LinkedIn content output.
 
 ### 3. Lara Acosta
@@ -60,7 +60,7 @@ Each expert was chosen to cover a distinct dimension of the LinkedIn organic pla
 - **LinkedIn**: https://www.linkedin.com/in/laraacostar/
 - **YouTube**: Own channel — youtube.com/@laraacosta (49K subscribers, 45+ videos, 1.36M total views). Recent uploads include "The Algorithm-Proof LinkedIn Strategy" and "I Built a $2.3M LinkedIn Plan in 23 Minutes."
 - **Content date range**: 2024–2026
-- **Collection method**: LinkedIn posts via manual collection; YouTube transcripts via youtube-transcript-api from own channel
+- **Collection method**: LinkedIn posts via Apify (harvestapi/linkedin-profile-posts) + Claude Chrome extension fallback; YouTube transcripts via youtube-transcript-api from own channel
 - **Annotation**: The most tactical voice on LinkedIn content formatting and growth mechanics. Where others share philosophy, she shares frameworks with step-by-step execution. Unique contribution: bridges strategy and hands-on production — shows exactly how to structure posts for the algorithm.
 
 ### 4. Richard van der Blom
@@ -70,7 +70,7 @@ Each expert was chosen to cover a distinct dimension of the LinkedIn organic pla
 - **LinkedIn**: https://www.linkedin.com/in/richardvanderblom/
 - **YouTube**: Guest appearances — featured on Creator Science, Dreamdata, REPUTATION REVOLUTION podcast. No personal channel.
 - **Content date range**: 2024–2026
-- **Collection method**: LinkedIn posts via manual collection; YouTube transcripts via youtube-transcript-api from interview appearances; Algorithm report summary in /other/
+- **Collection method**: LinkedIn posts via Apify (harvestapi/linkedin-profile-posts) + Claude Chrome extension fallback; YouTube transcripts via youtube-transcript-api from interview appearances; Algorithm report summary in /other/
 - **Annotation**: The only expert on this list whose primary contribution is data, not opinion. His annual report is cited by every other LinkedIn strategist. Unique contribution: provides the empirical foundation that all other experts' advice should be validated against.
 
 ### 5. Steffen Hedebrandt
@@ -80,7 +80,7 @@ Each expert was chosen to cover a distinct dimension of the LinkedIn organic pla
 - **LinkedIn**: https://www.linkedin.com/in/steffenhedebrandt/
 - **YouTube**: Guest appearances on SaaS Marketing Superstars, FINITE podcast, Napier B2B, and LinkedIn Lives. No personal channel.
 - **Content date range**: 2025–2026
-- **Collection method**: LinkedIn posts via manual collection; YouTube transcripts via youtube-transcript-api from podcast appearances
+- **Collection method**: LinkedIn posts via Apify (harvestapi/linkedin-profile-posts) + Claude Chrome extension fallback; YouTube transcripts via youtube-transcript-api from podcast appearances
 - **Annotation**: The only expert on this list who both builds a measurement tool and uses it to measure his own marketing. His data proves LinkedIn delivers 121% ROAS in B2B (vs. 67% Google Search, 51% Meta) and that 81% of the B2B journey happens before the sales pipeline. Unique contribution: hard attribution data that turns "LinkedIn works" from a belief into a provable statement. Replaced Daniel Murray, whose content was too generic for rigorous measurement.
 
 ### 6. Liam Moroney
@@ -90,7 +90,7 @@ Each expert was chosen to cover a distinct dimension of the LinkedIn organic pla
 - **LinkedIn**: https://www.linkedin.com/in/liammoroney/
 - **YouTube**: Host of "The B2B Brand" podcast. Guest on Humans of Martech, MarketingProfs B2B Forum.
 - **Content date range**: 2025–2026
-- **Collection method**: LinkedIn posts via manual collection; YouTube transcripts via youtube-transcript-api from podcast appearances
+- **Collection method**: LinkedIn posts via Apify (harvestapi/linkedin-profile-posts) + Claude Chrome extension fallback; YouTube transcripts via youtube-transcript-api from podcast appearances
 - **Annotation**: The theoretical foundation for dark social in its most current form. While Chris Walker (who originally held this slot) coined the term, he pivoted away from B2B marketing in 2025 to focus on wellness/neuroscience (ENCODED). Moroney carries the argument forward: 80-90% of deals go to day-one consideration sets, the marketing journey is non-linear, and brand investment creates the conditions for everything else to work. Unique contribution: the strategic "why" behind organic content — it's not about leads, it's about being in the memory bank when buyers enter the market.
 
 ### 7. Dave Gerhardt
@@ -100,7 +100,7 @@ Each expert was chosen to cover a distinct dimension of the LinkedIn organic pla
 - **LinkedIn**: https://www.linkedin.com/in/davegerhardt/
 - **YouTube**: Exit Five podcast on YouTube (300+ episodes). Also frequent guest on B2B marketing podcasts.
 - **Content date range**: 2024–2026
-- **Collection method**: LinkedIn posts via manual collection; YouTube transcripts via youtube-transcript-api from Exit Five podcast on YouTube
+- **Collection method**: LinkedIn posts via Apify (harvestapi/linkedin-profile-posts) + Claude Chrome extension fallback; YouTube transcripts via youtube-transcript-api from Exit Five podcast on YouTube
 - **Annotation**: The connective tissue of B2B marketing discourse. His podcast features most of the other experts on this list as guests, providing cross-pollinated perspectives. Unique contribution: the community-building angle — how LinkedIn organic can feed something bigger than just content.
 
 ### 8. Amanda Natividad
@@ -110,7 +110,7 @@ Each expert was chosen to cover a distinct dimension of the LinkedIn organic pla
 - **LinkedIn**: https://www.linkedin.com/in/amandanat/
 - **YouTube**: Guest appearances on Creator Science, The Bootstrapped Founder, Content 10x, The Authentic Marketer. Also hosts "The Menu" on YouTube.
 - **Content date range**: 2024–2026
-- **Collection method**: LinkedIn posts via manual collection; YouTube transcripts via youtube-transcript-api from interview appearances
+- **Collection method**: LinkedIn posts via Apify (harvestapi/linkedin-profile-posts) + Claude Chrome extension fallback; YouTube transcripts via youtube-transcript-api from interview appearances
 - **Annotation**: Most LinkedIn strategy advice starts with "post daily." Natividad starts with "know your audience first." Her SparkToro work provides tools and methodology for audience research that precedes content creation. Unique contribution: the research layer that should come before any content system.
 
 ### 9. Devin Reed
@@ -120,7 +120,7 @@ Each expert was chosen to cover a distinct dimension of the LinkedIn organic pla
 - **LinkedIn**: https://www.linkedin.com/in/devinreed/
 - **YouTube**: Own channel — youtube.com/@TheReederCo. Also guest on multiple B2B podcasts.
 - **Content date range**: 2024–2026
-- **Collection method**: LinkedIn posts via manual collection; YouTube transcripts via youtube-transcript-api from own channel and guest appearances
+- **Collection method**: LinkedIn posts via Apify (harvestapi/linkedin-profile-posts) + Claude Chrome extension fallback; YouTube transcripts via youtube-transcript-api from own channel and guest appearances
 - **Annotation**: The enterprise perspective. Most LinkedIn organic advice is solopreneur-focused (Justin Welsh model). Reed shows how to run LinkedIn content at company scale — with a team, editorial calendar, and brand guidelines. Unique contribution: the Gong case study is the gold standard for B2B content-led growth.
 
 ### 10. Ross Simmonds
@@ -130,7 +130,7 @@ Each expert was chosen to cover a distinct dimension of the LinkedIn organic pla
 - **LinkedIn**: https://www.linkedin.com/in/rosssimmonds/
 - **YouTube**: Own channel — youtube.com/@RossSimmondsTV. Also frequent guest on Exit Five and other B2B podcasts.
 - **Content date range**: 2024–2026
-- **Collection method**: LinkedIn posts via manual collection; YouTube transcripts via youtube-transcript-api from own channel and guest appearances
+- **Collection method**: LinkedIn posts via Apify (harvestapi/linkedin-profile-posts) + Claude Chrome extension fallback; YouTube transcripts via youtube-transcript-api from own channel and guest appearances
 - **Annotation**: Everyone else on this list teaches how to create content. Simmonds teaches what to do after you hit "publish." His distribution framework turns one LinkedIn post into 20 touchpoints across channels. Unique contribution: the distribution layer that turns content creation into a scalable system.
 
 ---
@@ -139,7 +139,7 @@ Each expert was chosen to cover a distinct dimension of the LinkedIn organic pla
 
 | Source Type | Tool | Details |
 |-------------|------|---------|
-| LinkedIn posts | Manual collection + [Apify](https://apify.com/) formatting script | 10 profiles, 6–8 posts per author curated by playbook relevance, engagement metrics included |
+| LinkedIn posts | [Apify](https://apify.com/) (harvestapi/linkedin-profile-posts) + Claude Chrome extension fallback | 10 profiles, 6–8 posts per author curated by playbook relevance, engagement metrics included |
 | YouTube transcripts | [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) (Python) | Free, no API key, extracts auto-generated or manual captions |
 | Supplementary materials | Manual collection | Algorithm reports, frameworks, templates referenced in expert content |
 

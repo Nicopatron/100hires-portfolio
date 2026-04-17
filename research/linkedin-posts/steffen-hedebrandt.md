@@ -3,7 +3,7 @@
 - **Profile**: https://www.linkedin.com/in/steffenhedebrandt/
 - **Posts collected**: 7
 - **Date range**: 2026-03 to 2026-04
-- **Collection method**: Manual (profile review + copy)
+- **Collection method**: Apify (harvestapi/linkedin-profile-posts) where available; Claude Chrome extension (claude.ai/web) for profiles beyond Apify quota
 - **Selection criteria**: B2B revenue attribution, LinkedIn-to-pipeline measurement, dark funnel tracking, organic vs. paid ROI benchmarks. Excluded: personal posts (team events, travel), reposts, off-topic (positioning, LLM citations, existential philosophy).
 - **Note**: Replaces Daniel Murray in the Measurement/ROI dimension. Daniel Murray's posts were too generic for rigorous measurement content; Hedebrandt provides hard attribution data from 3.5M+ B2B customer journeys.
 

@@ -3,7 +3,7 @@
 - **Profile**: https://www.linkedin.com/in/devinreed/
 - **Posts collected**: 7
 - **Date range**: 2026-03 to 2026-04
-- **Collection method**: Manual (profile review + copy)
+- **Collection method**: Apify (harvestapi/linkedin-profile-posts) where available; Claude Chrome extension (claude.ai/web) for profiles beyond Apify quota
 - **Selection criteria**: Content strategy at scale, Gong playbook (12K→220K followers, $20M→$220M ARR), 95-5 framework, executive buy-in for content, enterprise B2B content operations. Excluded: personal posts (TED, golf, family), AI tools roundups, sponsored product pitches without strategic content.
 
 ---

@@ -3,7 +3,7 @@
 - **Profile**: https://www.linkedin.com/in/liammoroney/
 - **Posts collected**: 6
 - **Date range**: 2026-02 to 2026-04
-- **Collection method**: Manual (profile review + copy)
+- **Collection method**: Apify (harvestapi/linkedin-profile-posts) where available; Claude Chrome extension (claude.ai/web) for profiles beyond Apify quota
 - **Selection criteria**: Demand gen strategy, dark social dynamics (buying off-attribution), brand vs. performance marketing, non-linear marketing journey, consideration set formation. Replaced Chris Walker (pivoted away from B2B marketing in 2025).
 
 ---

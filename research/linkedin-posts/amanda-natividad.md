@@ -3,7 +3,7 @@
 - **Profile**: https://www.linkedin.com/in/amandanat/
 - **Posts collected**: 8
 - **Date range**: 2025-08 to 2026-04
-- **Collection method**: Manual (profile review + copy)
+- **Collection method**: Apify (harvestapi/linkedin-profile-posts) where available; Claude Chrome extension (claude.ai/web) for profiles beyond Apify quota
 - **Selection criteria**: Audience research methodology, zero-click marketing, attribution vs. measurement, audience-first content strategy. Excluded: event promos, reposts, personal updates.
 
 ---

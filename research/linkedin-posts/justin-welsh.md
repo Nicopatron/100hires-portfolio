@@ -3,7 +3,7 @@
 - **Profile**: https://www.linkedin.com/in/justinwelsh/
 - **Posts collected**: 7
 - **Date range**: 2026-02 to 2026-03
-- **Collection method**: Manual (profile review + copy)
+- **Collection method**: Apify (harvestapi/linkedin-profile-posts) where available; Claude Chrome extension (claude.ai/web) for profiles beyond Apify quota
 - **Selection criteria**: Content systems, solopreneur revenue model, LinkedIn as distribution channel. Excluded: motivational/lifestyle posts, personal updates, Twitter/X reposts.
 
 ---

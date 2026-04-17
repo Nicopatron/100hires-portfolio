@@ -3,7 +3,7 @@
 - **Profile**: https://www.linkedin.com/in/laraacostar/
 - **Posts collected**: 6
 - **Date range**: 2026-03 to 2026-04
-- **Collection method**: Manual (profile review + copy)
+- **Collection method**: Apify (harvestapi/linkedin-profile-posts) where available; Claude Chrome extension (claude.ai/web) for profiles beyond Apify quota
 - **Selection criteria**: Hook frameworks, post formatting, LinkedIn growth tactics, algorithm insights, content templates. Excluded: Forbes 30U30 milestone posts, speaking events, reposts, motivational posts without tactical content.
 
 ---

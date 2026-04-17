@@ -3,7 +3,7 @@
 - **Profile**: https://www.linkedin.com/in/richardvanderblom/
 - **Posts collected**: 6
 - **Date range**: 2026-04
-- **Collection method**: Manual (profile review + copy)
+- **Collection method**: Apify (harvestapi/linkedin-profile-posts) where available; Claude Chrome extension (claude.ai/web) for profiles beyond Apify quota
 - **Selection criteria**: Algorithm data, engagement patterns, Interest Graph distribution, reach metrics, post format analytics from Algorithm Insights Report 2026. Excluded: personal travel posts, generic frustration posts, newsletter format posts, storytelling/authenticity posts without algorithm data.
 
 ---
